@@ -1,7 +1,12 @@
-## olá me chamo wyllian 👋
+<div align="center">
+  <h1>Olá! Eu sou o Wyllian Mariano Nogueira 👋</h1>
+</div>
 
+---
 
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" height="100" />
-          
+### 💻 Minha Tecnologia Favorita
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  </p>  
 

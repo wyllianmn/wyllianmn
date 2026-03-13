@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/wyllianmn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyllianmn&layout=compact&theme=dark" alt="Thiago's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyllianmn&layout=compact&theme=dark" alt="wyllian's Top Languages">
   </a>
 </p>
